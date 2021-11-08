@@ -1,0 +1,14 @@
+C:\Users\dtenn\Desktop\SoloC#\Inheritpr\Inheritpr\bin\Debug\netcoreapp3.1\Inheritpr.exe
+C:\Users\dtenn\Desktop\SoloC#\Inheritpr\Inheritpr\bin\Debug\netcoreapp3.1\Inheritpr.deps.json
+C:\Users\dtenn\Desktop\SoloC#\Inheritpr\Inheritpr\bin\Debug\netcoreapp3.1\Inheritpr.runtimeconfig.json
+C:\Users\dtenn\Desktop\SoloC#\Inheritpr\Inheritpr\bin\Debug\netcoreapp3.1\Inheritpr.runtimeconfig.dev.json
+C:\Users\dtenn\Desktop\SoloC#\Inheritpr\Inheritpr\bin\Debug\netcoreapp3.1\Inheritpr.dll
+C:\Users\dtenn\Desktop\SoloC#\Inheritpr\Inheritpr\bin\Debug\netcoreapp3.1\Inheritpr.pdb
+C:\Users\dtenn\Desktop\SoloC#\Inheritpr\Inheritpr\obj\Debug\netcoreapp3.1\Inheritpr.csproj.AssemblyReference.cache
+C:\Users\dtenn\Desktop\SoloC#\Inheritpr\Inheritpr\obj\Debug\netcoreapp3.1\Inheritpr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtenn\Desktop\SoloC#\Inheritpr\Inheritpr\obj\Debug\netcoreapp3.1\Inheritpr.AssemblyInfoInputs.cache
+C:\Users\dtenn\Desktop\SoloC#\Inheritpr\Inheritpr\obj\Debug\netcoreapp3.1\Inheritpr.AssemblyInfo.cs
+C:\Users\dtenn\Desktop\SoloC#\Inheritpr\Inheritpr\obj\Debug\netcoreapp3.1\Inheritpr.csproj.CoreCompileInputs.cache
+C:\Users\dtenn\Desktop\SoloC#\Inheritpr\Inheritpr\obj\Debug\netcoreapp3.1\Inheritpr.dll
+C:\Users\dtenn\Desktop\SoloC#\Inheritpr\Inheritpr\obj\Debug\netcoreapp3.1\Inheritpr.pdb
+C:\Users\dtenn\Desktop\SoloC#\Inheritpr\Inheritpr\obj\Debug\netcoreapp3.1\Inheritpr.genruntimeconfig.cache
